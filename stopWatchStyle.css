@@ -1,0 +1,22 @@
+.timer { font-size: 20px }
+
+.buttons-area { padding-top: 20px }
+
+button {
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+button.startStop-btn { margin-right: 5px; background-color: #4CAF50; }
+
+button.reset-btn { margin-right: 5px; background-color: #f44336; }
+
+button.recordTime-btn { background-color: #008CBA; }
+
+.past-times-list { font-size: 20px }
